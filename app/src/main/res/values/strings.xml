@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">finalMatesComp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="colors_prompt">Color</string>
+    <string name="storage_prompt">Storage</string>
+
+    <string-array name="colors_array">
+        <item>Negro</item>
+        <item>Blanco</item>
+        <item>Dorado</item>
+        <item>Rosa</item>
+    </string-array>
+    <string-array name="storage_array">
+        <item>32gb</item>
+        <item>64gb</item>
+        <item>128gb</item>
+    </string-array>
+</resources>
